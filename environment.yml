@@ -1,0 +1,12 @@
+name: python_5_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyter
+  - conda-forge::scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+prefix: /users/PAS2797/sremson/.conda/envs/python_5_env
