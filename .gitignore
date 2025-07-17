@@ -1,0 +1,2 @@
+# Ignore all python checkpoint folders
+.ipynb_checkpoints/
